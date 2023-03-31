@@ -1,0 +1,11 @@
+DEBUG:root:Das ist eine Debug-Nachricht
+INFO:root:Das ist eine Info-Nachricht
+WARNING:root:Das ist eine Warning-Nachricht
+ERROR:root:Das ist eine Error-Nachricht
+CRITICAL:root:Das ist eine Critical-Nachricht
+INFO:root:Hier ist eine string Variable und eine int: 10
+2023/03/29 01:50:30 PM: INFO: main Zeile:15 User:Ralph Das ist eine Info-Nachricht
+2023/03/29 01:50:30 PM: DEBUG: meine_protokoll_funktion Zeile:7 User:Ralph Das ist eine Debug-Level-Nachricht
+2023/03/29 01:52:07 PM: INFO: main Zeile:15 User:Ralph Das ist eine Info-Nachricht
+2023/03/29 01:52:07 PM: WARNING: main Zeile:16 User:Ralph Das ist eine Warning-Nachricht
+2023/03/29 01:52:07 PM: DEBUG: meine_protokoll_funktion Zeile:7 User:Ralph Das ist eine Debug-Level-Nachricht
