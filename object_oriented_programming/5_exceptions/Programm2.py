@@ -1,4 +1,4 @@
-from Ausnahme import *
+from Ausnahme2 import *
 
 
 class Programm:
@@ -7,9 +7,8 @@ class Programm:
 
     @staticmethod
     def main():
-        obj = Ausnahme()
-        # obj.rechne()
-        obj.verifiziere()
+        obj = Ausnahme2()
+        obj.rechne()
 
 
 Programm()
